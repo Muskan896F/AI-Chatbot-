@@ -3,3 +3,5 @@ langchain_groq
 langchain_community
 pypdf
 sentence_transformers
+langchain
+langchain-core
